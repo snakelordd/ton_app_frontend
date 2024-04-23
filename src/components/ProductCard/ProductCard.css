@@ -1,0 +1,5 @@
+.card-wrapper {
+    background-color: var(--tg-theme-secondary-bg-color);
+    opacity: 70%;
+    background-size: cover;
+}

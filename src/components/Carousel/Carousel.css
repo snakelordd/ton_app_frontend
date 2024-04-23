@@ -1,0 +1,13 @@
+.react-horizontal-scrolling-menu--scroll-container {
+    display: flex;
+    height: max-content;
+    overflow-y: hidden;
+    position: relative;
+    width: 100%;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+.react-horizontal-scrolling-menu--scroll-container::-webkit-scrollbar {
+    display: none;
+}
